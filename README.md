@@ -1,4 +1,4 @@
-- 👋 23 year old CCNA & NSE4 certified Network Engineer, living in London
+- 👋 23-year-old CCNA & NSE4 certified Network Engineer, living in London
 
 - 🌱 Just begun learning Python
 
