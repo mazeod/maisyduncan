@@ -1,8 +1,8 @@
-- 👋 I’m @maisyduncan, a 23 year old Network Security Engineer living in London
+- 👋 23 year old Network Security Engineer living in London
 
-- 🌱 Currently learning Python..
+- 🌱 Just begun learning Python
 
-- 📫 Reach out to me on LinkedIn - https://www.linkedin.com/in/maisyduncan/
+- 📫 Reach out on LinkedIn - https://www.linkedin.com/in/maisyduncan/
 
 
 
